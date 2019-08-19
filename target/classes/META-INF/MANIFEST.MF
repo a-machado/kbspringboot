@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: calculator
+Implementation-Version: 1.0.0
+Built-By: anmachad
+Implementation-Vendor-Id: org.exza
+Build-Jdk: 1.8.0_212
+Implementation-URL: http://projects.spring.io/spring-boot/calculator/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
